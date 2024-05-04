@@ -1,0 +1,11 @@
+Grupo clase1 { 
+	Sw [x]{
+	Otro [valor] = Salida[a];
+	end;
+	Otro [valor] = Salida[r];
+	end;
+	Def = Salida [a];
+	end;  	
+	}
+
+}
